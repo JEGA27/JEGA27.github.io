@@ -1,0 +1,122 @@
+body {
+  background-color: #1B1B1E;
+}
+hr {
+  background-color: #58A4B0;
+  height: 1px;
+}
+
+hr {
+  display: block;
+  unicode-bidi: isolate;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 1px;
+}
+
+
+ul.navBar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #373F51;
+}
+
+
+li.navBar {
+  float: left;
+}
+
+li.navBar a{
+  display: block;
+  color: #A9BCD0;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+li.navBar a:hover{
+  background-color: #1B1B1E;
+}
+
+.sTitle {
+  font-family: sans-serif;
+  color: #A9BCD0;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.titleName{
+  font-family: 'Montserrat', sans-serif;
+  color: #58A4B0;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+div.presentation {
+  font-family: sans-serif;
+  color: #D8DBE2;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+
+.container {
+  width: 100%;
+  background-color: #A9BCD0;
+}
+
+.bars {
+  margin: 0% 20% 0% 20%;
+  font-family: sans-serif;
+  margin-top: 5%;
+  margin-bottom: 5%
+}
+
+.bars{
+  font-size: 14px;
+  font-weight: 100;
+  color: #A9BCD0;
+}
+
+.python {
+  width: 80%;
+  background-color: #58A4B0;
+}
+
+.ruby {
+  width: 90%;
+  background-color: #58A4B0;
+}
+
+.html{
+  width: 75%;
+  background-color: #58A4B0;
+}
+
+.cplspls {
+  width: 70%;
+  background-color: #58A4B0;
+}
+
+.sql {
+  width: 60%;
+  background-color: #58A4B0;
+}
+
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #D8DBE2;
+}
